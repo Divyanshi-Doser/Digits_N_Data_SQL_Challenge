@@ -33,7 +33,8 @@ The result of this mission was used as the key to unlock the next challenge.
 
 ## LinkedIn Post
 I shared my creative video presentation for Mission 2 on LinkedIn:  
-🎥 **[ https://www.linkedin.com/posts/divyanshi-doser_sixweekstosavereality-dndchallenge-digitsndata-activity-7406534096308510720-GaC4?utm_source=share&utm_medium=member_android&rcm=ACoAAFn4nbMBzA70MeO-p2EjHsa7DB-bJ35X5lE ]**
+🎥 [Mission 2 – Creative Video Presentation on LinkedIn]( https://www.linkedin.com/posts/divyanshi-doser_sixweekstosavereality-dndchallenge-digitsndata-activity-7406534096308510720-GaC4?utm_source=share&utm_medium=member_android&rcm=ACoAAFn4nbMBzA70MeO-p2EjHsa7DB-bJ35X5lE )
+
 
 ---
 This mission emphasizes analytical reasoning, comparison-based insights, and creative storytelling through data.
