@@ -37,7 +37,8 @@ The final result was used as the mission key to unlock the next challenge.
 
 ## LinkedIn Post
 I shared my Mission 1 journey and insights on LinkedIn:  
-🔗 **[Add your LinkedIn post link here]**
+🔗 [LinkedIn Post](https://www.linkedin.com/posts/divyanshi-doser_digits-n-data-sql-challenge-activity-7404823990877196288-Y7XK?utm_source=share&utm_medium=member_android&rcm=ACoAAFn4nbMBzA70MeO-p2EjHsa7DB-bJ35X5lE)
+
 
 ---
 This mission focuses on analytical thinking, problem decomposition, and presenting insights in a creative, story-driven format.
