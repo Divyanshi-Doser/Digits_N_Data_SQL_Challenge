@@ -100,7 +100,7 @@ A cinematic **video walkthrough** explaining the storyline, SQL logic, and
 investigation flow has been shared on LinkedIn.
 
 🔗 **LinkedIn Video Link:**  
-( https://www.linkedin.com/posts/divyanshi-doser_sql-dataanalytics-learninginpublic-activity-7412785747218563072-oox8?utm_source=share&utm_medium=member_android&rcm=ACoAAFn4nbMBzA70MeO-p2EjHsa7DB-bJ35X5lE )
+ [LinkedIn Post]( https://www.linkedin.com/posts/divyanshi-doser_sql-dataanalytics-learninginpublic-activity-7412785747218563072-oox8?utm_source=share&utm_medium=member_android&rcm=ACoAAFn4nbMBzA70MeO-p2EjHsa7DB-bJ35X5lE )
 
 ---
 
