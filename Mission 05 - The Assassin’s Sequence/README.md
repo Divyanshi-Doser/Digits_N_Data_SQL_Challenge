@@ -103,4 +103,4 @@ A cinematic **presentation walkthrough** explaining the storyline, SQL logic,
 and investigative reasoning has been shared on LinkedIn as part of the challenge.
 
 🔗 **LinkedIn Post Link:**  
-( [ Tap Here ](https://www.linkedin.com/posts/divyanshi-doser_six-weeks-to-save-reality-mission-5-activity-7415760656584429568-ciol?utm_source=share&utm_medium=member_android&rcm=ACoAAFn4nbMBzA70MeO-p2EjHsa7DB-bJ35X5lE) )
+(https://www.linkedin.com/posts/divyanshi-doser_six-weeks-to-save-reality-mission-5-activity-7415760656584429568-ciol?utm_source=share&utm_medium=member_android&rcm=ACoAAFn4nbMBzA70MeO-p2EjHsa7DB-bJ35X5lE)
