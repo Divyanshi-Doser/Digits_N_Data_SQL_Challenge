@@ -91,5 +91,5 @@ This confirms the optimal point to make the “final jump” with **minimal time
 A cinematic **walkthrough** explaining the storyline, SQL logic, and timeline analysis has been shared on LinkedIn as part of the challenge.
 
 🔗 **LinkedIn Post Link:**  
-(https://www.linkedin.com/posts/divyanshi-doser_dnd-challenge-mission-6-activity-7418649834682859520-xTqC?utm_source=share&utm_medium=member_android&rcm=ACoAAFn4nbMBzA70MeO-p2EjHsa7DB-bJ35X5lE)
+ [LinkedIn Post](https://www.linkedin.com/posts/divyanshi-doser_dnd-challenge-mission-6-activity-7418649834682859520-xTqC?utm_source=share&utm_medium=member_android&rcm=ACoAAFn4nbMBzA70MeO-p2EjHsa7DB-bJ35X5lE)
 
