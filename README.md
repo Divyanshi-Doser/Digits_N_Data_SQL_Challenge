@@ -5,7 +5,7 @@
 Ranked among the **Top 6 performers** in the Digits n Data SQL Challenge 
 for solving business-focused analytical SQL case problems.
 
-![Top 6 Recognition](./digits-n-data-top-6-recognition.png)
+![Top 6 Recognition](./digits-n-data-top6-recognition.png)
 
 ![SQL Certificate](./digits-n-data-certificate.png)
 
