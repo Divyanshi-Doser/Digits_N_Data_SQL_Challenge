@@ -2,7 +2,7 @@
 
 ## 🏅 Recognition
 
-Ranked among the **Top 6 performers** in the Digits n Data SQL Challenge 
+Ranked among the **Top 6 out of 783 participants** in the Digits n Data SQL Challenge 
 for solving business-focused analytical SQL case problems.
 
 ![Top 6 Recognition](./digits-n-data-top6-recognition.png)
